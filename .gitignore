@@ -130,3 +130,8 @@ dmypy.json
 
 # Adding config.py file.
 api_keys.py
+config.py
+nomics_key.py
+nomics_key
+poly_key.py
+poly_key
