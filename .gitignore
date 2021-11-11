@@ -128,10 +128,15 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Adding config.py file.
+# API Key
 api_keys.py
+
+# Adding config.py file.
 config.py
+config
 nomics_key.py
 nomics_key
 poly_key.py
 poly_key
+API_practice.ipynb
+random_numbers.ipynb
