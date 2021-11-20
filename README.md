@@ -13,7 +13,7 @@ Our Objective was to answer four main questions.
 
 To be able to answer this questions we took our data from two api's :
 1. Nomics API
-2. Exchangerate API
+2. ExchangeRates API
 
 
 
