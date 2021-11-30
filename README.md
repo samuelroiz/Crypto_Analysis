@@ -32,4 +32,4 @@ After realizing our investigation and supported in our findings we arrived at se
 2. Crypto and the dollar have a small relationship on their performance, but there is a stronger relationship between the dollar and Bitcoin, this is the most popular and known Crypto currency. 
 3. The pandemic had a big impact over Crypto currencies but it also had a bigimpact over the dollar investment.
 
-
+## Data Images Outcome
