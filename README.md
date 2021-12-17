@@ -16,7 +16,6 @@ To be able to answer this questions we took our data from two api's :
 2. ExchangeRates API
 
 
-
 The branches for this project are called: 
 Sven: Here we did an analysis of the dollar in comparison to crypto currencies and a comparison of the dollar vs the bitcoin during the last year.
 
