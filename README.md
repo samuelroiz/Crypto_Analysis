@@ -32,3 +32,13 @@ After realizing our investigation and supported in our findings we arrived at se
 3. The pandemic had a big impact over Crypto currencies but it also had a bigimpact over the dollar investment.
 
 ## Data Images Outcome
+
+![Pandemic Market Bar Chart](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/Pandemic_Market_Bar_Chart.png)
+
+The following image displays the crypto currency market during the years of the pandemic. As you can see, the market cap was around five hundred thousand. Once the pandemic hit, the crypto currency sky rocketed to a maximum of 2.5 le 12. 
+
+![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021.png)
+
+![USD vs Crypto Market Graph](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_CyrptoMarket_Pandemic.png)
+
+
