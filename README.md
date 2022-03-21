@@ -44,20 +44,18 @@ More than 13,000 different cryptocurrencies are traded publicly, according to No
 
 <p> As we can see, the bar chart shows how much the data has evolved over the pandemic. The pandemic started in 2021 and has been in the pandemic ever since. The crypto market shows its growth at the beginning of the pandemic and has grown ever since with some drops along the way. The bar chart still shows some significant increases in the crypto market and will keep growing even if the pandemic is finished. </p> 
 
-<p> <i> Another bar chart showing how the pandemic increased the crypto market cap. </i> </p>
-
 ![Pandemic Market Bar Chart](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/Pandemic_Market_Bar_Chart.png)
 
-The following image displays the crypto currency market during the years of the pandemic. As you can see, the market cap was around five hundred thousand. Once the pandemic hit, the crypto currency sky rocketed to a maximum of 2.5 le 12. 
+<p> Another bar chart showing how the pandemic increased the crypto market cap. The following bar chart displays the crypto currency market during the years of the pandemic. As you can see, the market cap was around five hundred thousand. Once the pandemic hit, the crypto currency sky rocketed to a maximum of 2.5 le 12.  </p>
+
+
+<b> <i> Does the USD and Bitcoin value have any correlation with each other? </i> </b> 
 
 ![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021_with_r_squared.png)
 
-The following graph shows the correlation between dollar change and bitcoin price. It used the linear regression model and shows an r-squared of .83. The r-squared tells us how much do they have a correlation with each other. The closer the r-squared is to a whole number, the connection between two variables relies on each other. Since it had an r-squared of .83, then the dollar price indicates the bitcoin price. If the value goes down, then either will go down. Therefore, dollar price and bitcoin price both share a relationship. 
+<p> The following graph shows the correlation between dollar change and bitcoin price. It used the linear regression model and shows an r-squared of .83. The r-squared tells us how much do they have a correlation with each other. The closer the r-squared is to a whole number, the connection between two variables relies on each other. Since it had an r-squared of .83, then the dollar price indicates the bitcoin price. If the value goes down, then either will go down. Therefore, dollar price and bitcoin price both share a relationship. </p> 
 
-
-## Data Images Outcome
-
-
+<b> <i> Does the USD and Cyrpto Market Capacity have any correlation with each other? </i> </b> 
 
 ![USD vs Crypto Market Graph](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_CyrptoMarket_Pandemic_with_r_squared.png)
 
