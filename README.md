@@ -17,19 +17,26 @@ To be able to answer this questions we took our data from two api's :
 
 
 The branches for this project are called: 
-Sven: Here we did an analysis of the dollar in comparison to crypto currencies and a comparison of the dollar vs the bitcoin during the last year.
+<b> Sven </b>: Here we did an analysis of the dollar in comparison to crypto currencies and a comparison of the dollar vs the bitcoin during the last year.
 
-Value: this branch was used to retrieve and do an analysis of each separate crypto currency to be able to later plot them, here we also did some simple bar plots to understand the performance and crypto environment.
+<b> Value </b>: this branch was used to retrieve and do an analysis of each separate crypto currency to be able to later plot them, here we also did some simple bar plots to understand the performance and crypto environment.
 
-Comparison: This branch, is extremely related to the Value branch, we took that code as starter and created a user interface for the user to be able to input several currencies he is interested in and have a simple analysis and comparison of those desired currencies.
+<b> Comparison </b>: This branch, is extremely related to the Value branch, we took that code as starter and created a user interface for the user to be able to input several currencies he is interested in and have a simple analysis and comparison of those desired currencies.
 
-Plots: On this branch we did some more complex plots, like bubbles and a line chart for the market capfor the whole year to understand the performance of the crypto currency during the pandemic and post pandemic.
+<b> Plots </b>: On this branch we did some more complex plots, like bubbles and a line chart for the market capfor the whole year to understand the performance of the crypto currency during the pandemic and post pandemic.
 
 After realizing our investigation and supported in our findings we arrived at several diferent conclusions.
 1. Right now and for the last year Crypto was a good and safe investment, of our 100 samples only 2 had a negative revenue result on the last 365 days. 
   Although it was a safe investment, the crypto market is mostly represented by the Bitcoin being by far the most popular, pricier and known crypto currency.
 2. Crypto and the dollar have a small relationship on their performance, but there is a stronger relationship between the dollar and Bitcoin, this is the most popular and known Crypto currency. 
 3. The pandemic had a big impact over Crypto currencies but it also had a bigimpact over the dollar investment.
+
+## What the data tell us
+
+<b> <i> How many cryptocurrencies are there? What are they worth? </i> </b> 
+More than 13,000 different cryptocurrencies are traded publicly, according to Nomics.com, a market research website. And cryptocurrencies continue to proliferate, raising money through initial coin offerings, or ICOs. The total value of all cryptocurrencies on Oct. 22, 2021, was more than $2.5 trillion, having fallen off an all-time high above $2.6 trillion days earlier. The total value of all bitcoins, the most popular digital currency, was pegged at about $1.2 trillion.
+![image](https://user-images.githubusercontent.com/89605095/159333416-b34c5573-e831-4e6a-8719-01e8fb011aaa.png)
+
 
 ## Data Images Outcome
 
