@@ -34,9 +34,9 @@ After realizing our investigation and supported in our findings we arrived at se
 ## What the data tell us
 
 <b> <i> How many cryptocurrencies are there? What are they worth? </i> </b> 
+<p>
 More than 13,000 different cryptocurrencies are traded publicly, according to Nomics.com, a market research website. And cryptocurrencies continue to proliferate, raising money through initial coin offerings, or ICOs. The total value of all cryptocurrencies on Oct. 22, 2021, was more than $2.5 trillion, having fallen off an all-time high above $2.6 trillion days earlier. The total value of all bitcoins, the most popular digital currency, was pegged at about $1.2 trillion.
-![image](https://user-images.githubusercontent.com/89605095/159333416-b34c5573-e831-4e6a-8719-01e8fb011aaa.png)
-
+</p>
 
 ## Data Images Outcome
 
