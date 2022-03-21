@@ -31,12 +31,14 @@ After realizing our investigation and supported in our findings we arrived at se
 2. Crypto and the dollar have a small relationship on their performance, but there is a stronger relationship between the dollar and Bitcoin, this is the most popular and known Crypto currency. 
 3. The pandemic had a big impact over Crypto currencies but it also had a bigimpact over the dollar investment.
 
-## <u> What the data tell us </u>
+## <u> What the data tell us... </u>
 
 ### <b> <i> How many cryptocurrencies are there? What are they worth? </i> </b> 
 <p>
 More than 13,000 different cryptocurrencies are traded publicly, according to Nomics.com, a market research website. And cryptocurrencies continue to proliferate, raising money through initial coin offerings, or ICOs. The total value of all cryptocurrencies on Oct. 22, 2021, was more than $2.5 trillion, having fallen off an all-time high above $2.6 trillion days earlier. The total value of all bitcoins, the most popular digital currency, was pegged at about $1.2 trillion.
 </p>
+
+![Crypto Market Over the Pandemic](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/crypto_over_the_years.png)
 
 ### <b> <i> Did the pandemic affect the crypto market? Positively? Negatively? No effects? </i> </b>
 
@@ -54,6 +56,10 @@ More than 13,000 different cryptocurrencies are traded publicly, according to No
 ![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021_with_r_squared.png)
 
 <p> The following graph shows the correlation between dollar change and bitcoin price. It used the linear regression model and shows an r-squared of .83. The r-squared tells us how much do they have a correlation with each other. The closer the r-squared is to a whole number, the connection between two variables relies on each other. Since it had an r-squared of .83, then the dollar price indicates the bitcoin price. If the value goes down, then either will go down. Therefore, dollar price and bitcoin price both share a relationship. </p> 
+
+![USD and Bitcoin price change](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/dollar_change_vs_bitcoin_change.png)
+
+<p> The price change between dollars and bitcoin price rely upon each other. Dollar change can predict when bitcoin prices are going to drop. If the dollar price goes down each year, then the bitcoin price will go down after a year or two. However, when the dollar price goes up. The bitcoin will drive up right away. From looking at the price change, they have a high correlation.  </p>
 
 ### <b> <i> Does the USD and Cyrpto Market Capacity have any correlation with each other? </i> </b> 
 
