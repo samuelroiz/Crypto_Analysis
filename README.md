@@ -38,14 +38,13 @@ After realizing our investigation and supported in our findings we arrived at se
 More than 13,000 different cryptocurrencies are traded publicly, according to Nomics.com, a market research website. And cryptocurrencies continue to proliferate, raising money through initial coin offerings, or ICOs. The total value of all cryptocurrencies on Oct. 22, 2021, was more than $2.5 trillion, having fallen off an all-time high above $2.6 trillion days earlier. The total value of all bitcoins, the most popular digital currency, was pegged at about $1.2 trillion.
 </p>
 
-<b> <i> Did the pandemic affect the crypto market? Positively? Negatively? No affects? </i> </b>
+<b> <i> Did the pandemic affect the crypto market? Positively? Negatively? No effects? </i> </b>
 
 ![Crypto Market Over the Pandemic](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/crypto_over_the_years.png)
 
-As we can see, the bar chart shows how much the data has evolved over the pandemic. The pandemic started in 2021 and has been in the pandemic ever since. The crypto market shows its growth at the beginning of the pandemic and has grown ever since with some drops along the way. The bar chart still shows some significant increases in the crypto market and will keep growing even if the pandemic is finished. 
+<p> As we can see, the bar chart shows how much the data has evolved over the pandemic. The pandemic started in 2021 and has been in the pandemic ever since. The crypto market shows its growth at the beginning of the pandemic and has grown ever since with some drops along the way. The bar chart still shows some significant increases in the crypto market and will keep growing even if the pandemic is finished. </p> 
 
-
-## Data Images Outcome
+<p> <i> Another bar chart showing how the pandemic increased the crypto market cap. </i> </p>
 
 ![Pandemic Market Bar Chart](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/Pandemic_Market_Bar_Chart.png)
 
@@ -54,6 +53,11 @@ The following image displays the crypto currency market during the years of the 
 ![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021_with_r_squared.png)
 
 The following graph shows the correlation between dollar change and bitcoin price. It used the linear regression model and shows an r-squared of .83. The r-squared tells us how much do they have a correlation with each other. The closer the r-squared is to a whole number, the connection between two variables relies on each other. Since it had an r-squared of .83, then the dollar price indicates the bitcoin price. If the value goes down, then either will go down. Therefore, dollar price and bitcoin price both share a relationship. 
+
+
+## Data Images Outcome
+
+
 
 ![USD vs Crypto Market Graph](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_CyrptoMarket_Pandemic_with_r_squared.png)
 
