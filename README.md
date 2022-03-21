@@ -44,8 +44,12 @@ More than 13,000 different cryptocurrencies are traded publicly, according to No
 
 The following image displays the crypto currency market during the years of the pandemic. As you can see, the market cap was around five hundred thousand. Once the pandemic hit, the crypto currency sky rocketed to a maximum of 2.5 le 12. 
 
-![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021.png)
+![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021_with_r_squared.png)
 
-![USD vs Crypto Market Graph](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_CyrptoMarket_Pandemic.png)
+The following graph shows the correlation between dollar change and bitcoin price. It used the linear regression model and shows an r-squared of .83. The r-squared tells us how much do they have a correlation with each other. The closer the r-squared is to a whole number, the connection between two variables relies on each other. Since it had an r-squared of .83, then the dollar price indicates the bitcoin price. If the value goes down, then either will go down. Therefore, dollar price and bitcoin price both share a relationship. 
+
+![USD vs Crypto Market Graph](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_CyrptoMarket_Pandemic_with_r_squared.png)
+
+Unlike the graph before, the dollar price and crypto market cap have an r-squared of .47. The r-squared is considered to be a weak correlation between the two indicators. With this information, we will not look too much into the dollar price and crypto market cap together since they do not share a relationship. 
 
 
