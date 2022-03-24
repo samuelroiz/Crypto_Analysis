@@ -75,13 +75,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Samuel Roiz** - *Initial work* - [Profile](https://github.com/samuelroiz)
+* **Samuel Roiz** - *Data cleaned, API Keys, Plot* - [GitHub](https://github.com/samuelroiz)
 
-* **LaQuita Williams** - *Initial work* - [Profile](https://github.com/laquita44) 
+* **LaQuita Williams** - *Plot* - [GitHub](https://github.com/laquita44) 
 
-* **Leo Lima** - *Initial work* - [Profile](https://github.com/Leolima539) 
+* **Leo Lima** - *Data cleaned, API Keys* - [GitHub](https://github.com/Leolima539) 
 
-* **Kevin Perez** - *Initial work* - [Profile](https://github.com/KevinKVNPR) 
+* **Kevin Perez** - *Plot* - [GitHub](https://github.com/KevinKVNPR) 
 
 
 See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
