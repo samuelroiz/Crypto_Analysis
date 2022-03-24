@@ -92,6 +92,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* LendingClub 
+* [Poly](https://www.poly.network/#/)
+* [Nomics](https://nomics.com/)
+* [Exchange Rates](https://exchangeratesapi.io/)
 * USC Data Visualization
 * CSUN Mathematics
