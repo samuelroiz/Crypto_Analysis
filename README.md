@@ -1,94 +1,89 @@
-# Crypto_Analysis
+# Crypto Analysis
 
+## Project
 
-## Project 
+This project was created to understand the performance of cryptocurrencies, their popularity, and how they compare to the performance of the dollar.
 
-This project was created to try to understand the performance of the crypto currency, it's popularity and compare it to the performance of the dollar.
-
-Our Objective was to answer four main questions.
+Our objective was to answer four main questions:
 1. Is crypto a good investment?
 2. How does crypto compare to the dollar?
-3. Did the pandemic have any effect over crypto currencues?
-4. Is there a relationship between the performance of crypto currencies and the dollar?
+3. Did the pandemic have any effect on cryptocurrencies?
+4. Is there a relationship between the performance of cryptocurrencies and the dollar?
 
-To be able to answer this questions we took our data from two api's :
+To answer these questions, we gathered data from two APIs:
 1. Nomics API
 2. ExchangeRates API
 
+## Branches
 
-The branches for this project are called: 
-<b> Sven </b>: Here we did an analysis of the dollar in comparison to crypto currencies and a comparison of the dollar vs the bitcoin during the last year.
+The branches for this project are:
 
-<b> Value </b>: this branch was used to retrieve and do an analysis of each separate crypto currency to be able to later plot them, here we also did some simple bar plots to understand the performance and crypto environment.
+**Sven**: Analysis of the dollar in comparison to cryptocurrencies and a comparison of the dollar vs. Bitcoin over the last year.
 
-<b> Comparison </b>: This branch, is extremely related to the Value branch, we took that code as starter and created a user interface for the user to be able to input several currencies he is interested in and have a simple analysis and comparison of those desired currencies.
+**Value**: Analysis of individual cryptocurrencies to plot their performance. Simple bar plots were created to understand the crypto environment.
 
-<b> Plots </b>: On this branch we did some more complex plots, like bubbles and a line chart for the market capfor the whole year to understand the performance of the crypto currency during the pandemic and post pandemic.
+**Comparison**: User interface for inputting multiple currencies to compare and analyze their performance.
 
-After realizing our investigation and supported in our findings we arrived at several diferent conclusions.
-1. Right now and for the last year Crypto was a good and safe investment, of our 100 samples only 2 had a negative revenue result on the last 365 days. 
-  Although it was a safe investment, the crypto market is mostly represented by the Bitcoin being by far the most popular, pricier and known crypto currency.
-2. Crypto and the dollar have a small relationship on their performance, but there is a stronger relationship between the dollar and Bitcoin, this is the most popular and known Crypto currency. 
-3. The pandemic had a big impact over Crypto currencies but it also had a bigimpact over the dollar investment.
+**Plots**: More complex plots, like bubble charts and line charts, for market cap over the year to understand the performance of cryptocurrencies during and after the pandemic.
 
-## <u> What the data tell us... </u>
+## Findings
 
-### <b> <i> How many cryptocurrencies are there? What are they worth? </i> </b> 
-<p>
-More than 13,000 different cryptocurrencies are traded publicly, according to Nomics.com, a market research website. And cryptocurrencies continue to proliferate, raising money through initial coin offerings, or ICOs. The total value of all cryptocurrencies on Oct. 22, 2021, was more than $2.5 trillion, having fallen off an all-time high above $2.6 trillion days earlier. The total value of all bitcoins, the most popular digital currency, was pegged at about $1.2 trillion.
-</p>
+1. **Crypto as an Investment**: Over the last year, crypto has been a good and relatively safe investment. Out of 100 samples, only 2 had a negative revenue result. However, the crypto market is predominantly represented by Bitcoin, the most popular and valuable cryptocurrency.
+2. **Crypto vs. Dollar**: There is a small relationship between the performance of crypto and the dollar, but a stronger relationship exists between the dollar and Bitcoin.
+3. **Pandemic Impact**: The pandemic significantly impacted cryptocurrencies and the dollar investment.
 
-### <b> <i> Did the pandemic affect the crypto market? Positively? Negatively? No effects? </i> </b>
+## What the Data Tell Us
+
+### How many cryptocurrencies are there? What are they worth?
+
+More than 13,000 different cryptocurrencies are traded publicly, according to Nomics.com. The total value of all cryptocurrencies on Oct. 22, 2021, was over $2.5 trillion. The total value of all bitcoins was pegged at about $1.2 trillion.
+
+### Did the pandemic affect the crypto market? Positively? Negatively? No effects?
 
 ![Crypto Market Over the Pandemic](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/crypto_over_the_years.png)
 
-<p> As we can see, the bar chart shows how much the data has evolved over the pandemic. The pandemic started in 2021 and has been in the pandemic ever since. The crypto market shows its growth at the beginning of the pandemic and has grown ever since with some drops along the way. The bar chart still shows some significant increases in the crypto market and will keep growing even if the pandemic is finished. </p> 
+As shown in the bar chart, the crypto market grew significantly during the pandemic and has continued to grow, with some fluctuations along the way.
 
 ![Pandemic Market Bar Chart](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/Pandemic_Market_Bar_Chart.png)
 
-<p> Another bar chart showing how the pandemic increased the crypto market cap. The following bar chart displays the crypto currency market during the years of the pandemic. As you can see, the market cap was around five hundred thousand. Once the pandemic hit, the crypto currency sky rocketed to a maximum of 2.5 le 12.  </p>
+Another bar chart showing how the pandemic increased the crypto market cap. The market cap was around five hundred thousand before the pandemic and skyrocketed to a maximum of 2.5 trillion during the pandemic.
 
-
-### <b> <i> Does the USD and Bitcoin value have any correlation with each other? </i> </b> 
+### Does the USD and Bitcoin value have any correlation with each other?
 
 ![Dollar Change vs Bitcoin Price](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_Bitcoin_2010to2021_with_r_squared.png)
 
-<p> The following graph shows the correlation between dollar change and bitcoin price. It used the linear regression model and shows an r-squared of .83. The r-squared tells us how much do they have a correlation with each other. The closer the r-squared is to a whole number, the connection between two variables relies on each other. Since it had an r-squared of .83, then the dollar price indicates the bitcoin price. If the value goes down, then either will go down. Therefore, dollar price and bitcoin price both share a relationship. </p> 
+The graph shows a correlation between dollar change and bitcoin price with an R-squared of 0.83. This indicates a strong relationship between the dollar price and bitcoin price.
 
-![USD and Bitcoin price change](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/dollar_change_vs_bitcoin_change.png)
+![USD and Bitcoin Price Change](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/dollar_change_vs_bitcoin_change.png)
 
-<p> The price change between dollars and bitcoin price rely upon each other. Dollar change can predict when bitcoin prices are going to drop. If the dollar price goes down each year, then the bitcoin price will go down after a year or two. However, when the dollar price goes up. The bitcoin will drive up right away. From looking at the price change, they have a high correlation.  </p>
+The price change between dollars and bitcoin shows a high correlation. Dollar changes can predict bitcoin price movements.
 
-### <b> <i> Does the USD and Cyrpto Market Capacity have any correlation with each other? </i> </b> 
+### Does the USD and Crypto Market Capacity have any correlation with each other?
 
 ![USD vs Crypto Market Graph](https://github.com/samuelroiz/Crypto_Analysis/blob/main/Images_sven/USD_vs_CyrptoMarket_Pandemic_with_r_squared.png)
 
-Unlike the graph before, the dollar price and crypto market cap have an r-squared of .47. The r-squared is considered to be a weak correlation between the two indicators. With this information, we will not look too much into the dollar price and crypto market cap together since they do not share a relationship. 
+The graph shows an R-squared of 0.47 between dollar price and crypto market cap, indicating a weak correlation.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct and the process for submitting pull requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
-* **Samuel Roiz** - *Data cleaned, API Keys, Plot, Analyzed Data* - [GitHub](https://github.com/samuelroiz)
+* **Samuel Roiz** - *Data cleaning, API keys, Plotting, Data analysis* - [GitHub](https://github.com/samuelroiz)
+* **LaQuita Williams** - *Plotting* - [GitHub](https://github.com/laquita44)
+* **Leo Lima** - *Data cleaning, API keys* - [GitHub](https://github.com/Leolima539)
+* **Kevin Perez** - *Plotting* - [GitHub](https://github.com/KevinKVNPR)
 
-* **LaQuita Williams** - *Plot* - [GitHub](https://github.com/laquita44) 
-
-* **Leo Lima** - *Data cleaned, API Keys* - [GitHub](https://github.com/Leolima539) 
-
-* **Kevin Perez** - *Plot* - [GitHub](https://github.com/KevinKVNPR) 
-
-
-See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
+See the list of [contributors](https://github.com/samuelroiz) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details.
 
 ## Acknowledgments
 
@@ -97,5 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 * [Exchange Rates](https://exchangeratesapi.io/)
 * USC Data Visualization
 * CSUN Mathematics
- 
- 
